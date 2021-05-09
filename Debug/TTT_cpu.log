@@ -1,0 +1,4 @@
+﻿  TTT.cpp
+C:\Users\Ricky Prophete\CPlusPlusPrograms\TTT_cpu\TTT.cpp(325,57): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Ricky Prophete\CPlusPlusPrograms\TTT_cpu\TTT.cpp(336,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TTT_cpu.vcxproj -> C:\Users\Ricky Prophete\CPlusPlusPrograms\TTT_cpu\Debug\TTT_cpu.exe

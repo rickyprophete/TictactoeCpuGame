@@ -1,0 +1,2 @@
+C:\Users\Ricky Prophete\CPlusPlusPrograms\TTT_cpu\Debug\TTT_cpu.exe
+C:\Users\Ricky Prophete\CPlusPlusPrograms\TTT_cpu\Debug\TTT_cpu.pdb
